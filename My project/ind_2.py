@@ -1,4 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import math
+
 
 class Vector3D:
     def __init__(self, x, y, z):
